@@ -66,8 +66,5 @@ The analytics workbook is structured into decoupled operational layers to optimi
 * ⚙️ **Expertise:** Advanced Excel & VBA, Linked Financial Modeling, Interactive Dashboards, and Data Sanitization.[cite: 1]
 
 ### Get In Touch
-* **Fiverr:** [hari_dm](https://www.fiverr.com/hari_dm)[cite: 1]
-* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)[cite: 1]
-
----
-*Note: Make sure to drop high-quality screenshots of the Varinda Store dashboard showing active filtering states into your repository's visual folder to properly highlight your analytical UI/UX design.*
+* **Fiverr:** [hari_dm](https://www.fiverr.com/hari_dm)
+* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)

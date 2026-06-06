@@ -42,9 +42,11 @@ The analytics workbook is structured into decoupled operational layers to optimi
         ActiveWorkbook.RefreshAll
     End Sub
     ```
+---
 
 * **Process Flow:** Automatically loops through all underlying data connections, wiping out caching delays and structural errors upon manual initialization.
 
+---
 
 ### 4. Interactive Sales Dashboard
 * **High-Level KPI Blocks:** Clear visual cards displaying current Revenue vs. Targets using conditional warning rules to highlight missed or surpassed sales quotas.

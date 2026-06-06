@@ -37,11 +37,6 @@ The analytics workbook is structured into decoupled operational layers to optimi
 ### 3. Automated Refresh Pipelines
 * **VBA Architecture:** Embedded script macro running on clean execution code:
 
-```vba
-Sub AutoRefreshSalesData()
-    ActiveWorkbook.RefreshAll
-End Sub
-    ```
 ---
 
 * **Process Flow:** Automatically loops through all underlying data connections, wiping out caching delays and structural errors upon manual initialization.

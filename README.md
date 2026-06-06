@@ -35,12 +35,12 @@ The analytics workbook is structured into decoupled operational layers to optimi
 * **Key Automation:** Groupings that aggregate transactional rows into structured summary matrices behind the scenes, ensuring the file remains fast and light.
 
 ### 3. Automated Refresh Pipelines
-
 * **VBA Architecture:** Embedded script macro running on clean execution code:
+
 ```vba
-    Sub AutoRefreshSalesData()
-        ActiveWorkbook.RefreshAll
-    End Sub
+Sub AutoRefreshSalesData()
+    ActiveWorkbook.RefreshAll
+End Sub
     ```
 ---
 
